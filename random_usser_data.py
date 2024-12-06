@@ -3,7 +3,7 @@
 import random
 
 # Step 1: Create a list of names
-names = ["Alice", "Bob", "Charlie", "Diana", "Eve", "Frank"]
+names = ["Alice", "Bob", "Lisa", "Diana", "Eve", "Frank"]
 
 # Step 2: Define a function that generates a random user
 def generate_user():
